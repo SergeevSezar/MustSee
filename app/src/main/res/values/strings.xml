@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Must See</string>
+    <string name="movie_poster">Постер фильма</string>
+    <string name="textview_popularity">Самые популярные</string>
+    <string name="textview_top_rated">Наиболее рейтинговое</string>
+    <string name="label_title">Название:</string>
+    <string name="textview_title">TextView</string>
+    <string name="big_poster">Большой постер</string>
+    <string name="label_original_title">Оригинальное название:</string>
+    <string name="textview_original_title">TextView</string>
+    <string name="label_rating">Рейтинг:</string>
+    <string name="textview_rating">TextView</string>
+    <string name="label_releaseDate">Дата релиза:</string>
+    <string name="textview_release_date">TextView</string>
+    <string name="label_description">Описание:</string>
+    <string name="textview_overview">TextView</string>
+    <string name="button_to_add_favorite">buttonToAddFavorite</string>
+    <string name="add_to_favorite">Movie added</string>
+    <string name="removed_to_favorite">Movie removed</string>
+    <string name="main_menu">Главная</string>
+    <string name="menu_favorite">Избранное</string>
+    <string name="button_add_to_favorite">Кнопка добавить в избранное</string>
+    <string name="trailer_video_button">trailer_video</string>
+</resources>
